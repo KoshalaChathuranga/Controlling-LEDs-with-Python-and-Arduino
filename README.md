@@ -23,9 +23,10 @@ This project demonstrates how to control LEDs connected to an Arduino board usin
 
 2. **Install Python Dependencies:**
    - Make sure you have Python 3.x installed on your computer.
-   - Install the PyQt5 library using pip:
+   - Install the libraries using pip:
      ```
      pip install PyQt5
+     pip install pyserial
      ```
 
 ## Usage
